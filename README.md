@@ -7,6 +7,7 @@ My first mobile hello world app for android.
 ### App Walk-though
 
 http://g.recordit.co/KVX8OWrj6G.gif
+
 <img src="http://g.recordit.co/KVX8OWrj6G.gif" width=200><br>
 
 `TODO:` 
